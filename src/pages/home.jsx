@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div style={{ textAlign: "center", marginTop: "80px" }}>
       <h1>Home Page 🏠</h1>
+      <p>Hello</p>
       <p>Welcome to our landing page</p>
 
       <nav style={{ marginTop: "20px" }}>
